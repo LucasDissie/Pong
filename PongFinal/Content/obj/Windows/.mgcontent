@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/spr_rodeSpeler.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/spr_blauweSpeler.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/spr_ball.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/spr_bluewinner.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/spr_redwinner.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/blueLifeBar2.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/redLifeBar1.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/redLifeBar2.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/redLifeBar3.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/blueLifeBar1.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/blueLifeBar3.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/spr_background.png</File>
+    <File>C:/Users/lucas/source/repos/PongFinal/PongFinal/Content/font.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
